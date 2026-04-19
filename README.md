@@ -1,30 +1,38 @@
-<!-- 🌊 HEADER BANNER -->
+<!-- 🌌 DARK GRADIENT HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8E44AD&height=200&section=header&text=Radhika%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,50:0d1117,100:161b22&height=220&section=header&text=Radhika%20Yadav&fontSize=45&fontColor=58A6FF&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- ✨ TYPING ANIMATION -->
+<!-- 🧠 HERO TEXT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=24&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;AI+%7C+ML+Developer;Python+Programmer;Always+Learning+🚀" />
+  <b style="color:#58A6FF; font-size:22px;">
+    🚀 Building Intelligent Solutions with AI & ML <br>
+    💻 Crafting Seamless Full-Stack Experiences
+  </b>
 </p>
 
 ---
 
-## 💫 About Me
+<!-- 👩‍💻 ABOUT -->
 
-💡 *Turning data into intelligent solutions*
+## 👩‍💻 About Me
 
-* 🎓 Passionate **Data Science & AI Enthusiast**
-* 🐍 Strong in **Python & Backend Development**
-* 📊 Skilled in **Data Analysis, ML & Visualization**
-* 🧠 Experienced in **Deep Learning (ANN, CNN, LSTM)**
-* 🛠️ Building **real-world AI projects**
-* 🤝 Open to collaboration on **AI/ML Projects**
-* ⚡ Fun fact: *Debugging > Coffee ☕*
+💡 *Transforming complex data into elegant solutions*
+
+* 🎓 MCA Student passionate about **cutting-edge technology**
+* 🧠 Specializing in **AI, ML & Deep Learning**
+* 📊 Strong in **Data Analysis & Visualization**
+* ⚙️ Experience with **real-world ML projects**
+* 🤝 Open to collaboration
+* ⚡ *Debugging faster than making coffee ☕*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1c,100:161b22&height=2"/>
 
 ---
+
+<!-- 🌐 SOCIAL -->
 
 ## 🌐 Connect With Me
 
@@ -33,82 +41,94 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:radhikayadav.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
   <a href="https://www.instagram.com/radhikaydv_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1c,100:161b22&height=2"/>
+
 ---
+
+<!-- ⚒️ TECH STACK -->
 
 ## ⚒️ Tech Arsenal
 
-### 🧠 AI / ML & Data Science
+### 🧠 AI / ML
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 </p>
 
-### 📊 Data Analysis
+### 📊 Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/ScikitLearn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
 </p>
 
-### ⚙️ Backend & Tools
+### ⚙️ Tools
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05033"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1c,100:161b22&height=2"/>
 
 ---
+
+<!-- 📊 STATS -->
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radhikaydv-git&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhikaydv-git&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Radhikaydv-git&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhikaydv-git&theme=tokyonight&background=0d1117&hide_border=true" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1c,100:161b22&height=2"/>
+
 ---
+
+<!-- 🐍 SNAKE -->
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Radhikaydv-git/Radhikaydv-git/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Radhikaydv-git/Radhikaydv-git/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
+
+<!-- 💬 QUOTE -->
 
 ## 💬 Dev Quote
 
 <p align="center">
-  <i>"The only way to do great work is to love what you do."</i><br>
-  <b>– Steve Jobs</b>
+  <span style="color:#58A6FF;">
+  "The only way to do great work is to love what you do."
+  </span><br>
+  <span style="color:#8b949e;">– Steve Jobs</span>
 </p>
 
 ---
 
-## 👀 Profile Views
+<!-- 👀 VIEWS -->
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Radhikaydv-git&icon=0&color=6"/>
+  <img src="https://visitcount.itsvg.in/api?id=Radhikaydv-git&icon=0&color=12"/>
 </p>
 
-<!-- FOOTER -->
+<!-- 🌌 FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:6C63FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0a0f1c&height=120&section=footer"/>
 </p>
