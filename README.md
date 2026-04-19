@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img width="250" src="./assets/main.gif"/>
 
 <br/><br/>
 
