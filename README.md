@@ -1,24 +1,28 @@
-<!-- HEADER -->
-<h1 align="center">✨ Radhika Yadav ✨</h1>
-<h3 align="center">Data Science | AI Enthusiast | ML Developer</h3>
+<!-- 🌊 HEADER BANNER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=25&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+Data+Science;Python+Developer;Deep+Learning+Explorer;Always+Learning+🚀">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8E44AD&height=200&section=header&text=Radhika%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- ✨ TYPING ANIMATION -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=24&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;AI+%7C+ML+Developer;Python+Programmer;Always+Learning+🚀" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 💫 About Me
 
-💡 *"Turning data into meaningful insights and intelligent solutions"*
+💡 *Turning data into intelligent solutions*
 
-- 🎓 Passionate **Data Science & AI Enthusiast**
-- 🐍 Strong in **Python & Backend Development**
-- 📊 Skilled in **Data Analysis, ML & Visualization**
-- 🧠 Experienced in **Deep Learning (ANN, CNN, LSTM)**
-- 🛠️ Building **real-world AI projects**
-- 🤝 Open to collaboration on **AI/ML Projects**
-- ⚡ Fun fact: *Debugging > Coffee ☕*
+* 🎓 Passionate **Data Science & AI Enthusiast**
+* 🐍 Strong in **Python & Backend Development**
+* 📊 Skilled in **Data Analysis, ML & Visualization**
+* 🧠 Experienced in **Deep Learning (ANN, CNN, LSTM)**
+* 🛠️ Building **real-world AI projects**
+* 🤝 Open to collaboration on **AI/ML Projects**
+* ⚡ Fun fact: *Debugging > Coffee ☕*
 
 ---
 
@@ -41,34 +45,37 @@
 ## ⚒️ Tech Arsenal
 
 ### 🧠 AI / ML & Data Science
+
 <p>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ### 📊 Data Analysis
+
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ### ⚙️ Backend & Tools
+
 <p>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Radhikaydv-git&show_icons=true&theme=tokyonight" />
@@ -98,4 +105,10 @@
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Radhikaydv-git&icon=0&color=6"/>
+</p>
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:6C63FF&height=120&section=footer"/>
 </p>
