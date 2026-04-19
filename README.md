@@ -4,8 +4,8 @@
 
 <br/><br/>
 
-<!--<img src="https://readme-typing-svg.demolab.com?font=Itim&size=38&duration=2000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Radhika+Yadav!;AI+%7C+ML+Developer;Data+Science+Enthusiast;Always+Learning+🚀" />>
-
+<!--<img src="https://readme-typing-svg.demolab.com?font=Itim&size=38&duration=2000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Radhika+Yadav!;AI+%7C+ML+Developer;Data+Science+Enthusiast;Always+Learning+🚀" />
+>
 </div>
 
 ---
