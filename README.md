@@ -51,6 +51,7 @@ const Radhika = {
     frameworks: ["TensorFlow", "FastAPI"],
     databases: ["MySQL"],
     tools: ["Git", "GitHub", "VS Code"],
+    environments: ["JupyterLab"],
     concepts: ["Machine Learning", "Deep Learning", "Data Analysis"]
 };
 ```
