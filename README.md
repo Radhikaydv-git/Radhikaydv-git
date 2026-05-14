@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#F8C8DC" style="padding: 20px; border-radius: 15px;">
+<td align="center" bgcolor="#F8C8DC" style="padding: 50px; border-radius: 15px;">
 
 <img width="250" src="./assets/main.gif"/>
 
